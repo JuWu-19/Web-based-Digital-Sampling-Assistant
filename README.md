@@ -21,7 +21,7 @@ Our solution? Develop a semantics-driven digitalization transformation framework
 ---
 
 #### 📈 **Overview**
-## Snapshot of the Welcome Message
+## Workflow overview of the digital sampling assistant
 
 <img src="IMG/dsa_diagram_1.png" alt="Snapshot of the Welcome Message" width="30%"/>
 We've unified numerous water sampling processes into a single, slick, automated workflow. Imagine an ecosystem where software and platforms come together to offer web-based services for efficient water sampling. Want a bird's eye view? Feast your eyes on the below:
@@ -34,7 +34,7 @@ As technicians dive into the platform:
 
 1. A friendly message pops up, ensuring they pause briefly for connection with GLIMS and subsequent data synchronization. 
 
-   ![welcome1](IMG/welcome_page_1.png)
+<img src="IMG/welcome_page_1.PNG" alt="Snapshot of the Welcome Message" width="30%"/>
 
 2. By default, the worksheet data from the current day is fetched, refined, and showcased.
 
