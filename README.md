@@ -21,7 +21,7 @@ Our solution? Develop a semantics-driven digitalization transformation framework
 ---
 
 #### 📈 **Overview**
-## Workflow overview of the digital sampling assistant
+#### Workflow overview of the digital sampling assistant
 
 <img src="IMG/dsa_diagram_1.png" alt="Snapshot of the Welcome Message" width="30%"/>
 We've unified numerous water sampling processes into a single, slick, automated workflow. Imagine an ecosystem where software and platforms come together to offer web-based services for efficient water sampling. Want a bird's eye view? Feast your eyes on the below:
