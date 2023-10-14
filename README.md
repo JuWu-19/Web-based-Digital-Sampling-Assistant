@@ -23,8 +23,8 @@ Our solution? Develop a semantics-driven digitalization transformation framework
 #### 📈 **Overview**
 
 We've unified numerous water sampling processes into a single, slick, automated workflow. Imagine an ecosystem where software and platforms come together to offer web-based services for efficient water sampling. Want a bird's eye view? Feast your eyes on the below:
-
-![Workflow overview of the digital sampling assistant](IMG/dsa_diagram_1.png)
+<img src="IMG/dsa_diagram_1.png" alt="Snapshot of the Welcome Message" width="50%"/>
+<!---![Workflow overview of the digital sampling assistant](IMG/dsa_diagram_1.png)-->
 ---
 
 #### 🖥️ **User Experience**
@@ -42,19 +42,38 @@ As technicians dive into the platform:
 #### 🌟 **Main Features**
 
 1. **Electronic Worksheets**: Intuitively view and rank sampling tasks along with related stats using features like "Sampling Zone", "Sampling Method", and more. Filter tasks based on these very features for a tailored experience.
-
+2. <table>
+  <tr>
+    <td><img src="IMG/menu_display_1.PNG" alt="Snapshot of Electronic Worksheets" width="50%"/></td>
+    <td><img src="IMG/menu_display_2.PNG" alt="Filtering of Sampling Tasks" width="50%"/></td>
+  </tr>
+  <tr>
+    <td align="center">Snapshot of Electronic Worksheets</td>
+    <td align="center">Filtering of Sampling Tasks</td>
+  </tr>
+</table>
+<!--
    ![Snapshot of Electronic Worksheets](IMG/menu_display_1.PNG)
-
    ![Filtering of Sampling Tasks](IMG/menu_display_2.PNG)
-
+-->
 2. **Interactive Digital Maps and Scene Pictures**: Navigate sampling zones marked with specific sampling points. Highlight, search, zoom in, and zoom out! Also, get a peek into the media related to a sample point with just a click.
-
-   ![Digital Maps and Sampling Points](task_page_1.PNG)
-
-   ![Zooming Feature](task_page_2.PNG)
-
-   ![Scene Images for Sampling Points](img_info_1.PNG)
-
+<table>
+  <tr>
+    <td><img src="IMG/task_page_1.PNG" alt="Digital Maps and Sampling Points" width="33%"/></td>
+    <td><img src="IMG/task_page_2.PNG" alt="Zooming Feature" width="33%"/></td>
+    <td><img src="IMG/img_info_1.PNG" alt="Scene Images for Sampling Points" width="33%"/></td>
+  </tr>
+  <tr>
+    <td align="center">Digital Maps and Sampling Points</td>
+    <td align="center">Zooming Feature</td>
+    <td align="center">Scene Images for Sampling Points</td>
+  </tr>
+</table>
+<!--
+   ![Digital Maps and Sampling Points](IMG/task_page_1.PNG)
+   ![Zooming Feature](IMG/task_page_2.PNG)
+   ![Scene Images for Sampling Points](IMG/img_info_1.PNG)
+-->
 3. **Sampling Task Check-ins & On-Site Feedback**: Give real-time feedback and check off tasks as they're completed. Log vital details, all of which seamlessly transfer to the connected Sharepoint List.
 
 4. **Real-time Progress Monitoring and Predictive Maintenance**: All up-to-the-minute details about sampling tasks are centralized. Plus, with Power BI's deep integration, expect advanced algorithms for predictive maintenance. It's a hub of information ready to support various modules in our digitalization transformation framework for water sampling activities!
