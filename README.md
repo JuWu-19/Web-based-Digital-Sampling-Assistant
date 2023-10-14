@@ -42,23 +42,24 @@ As technicians dive into the platform:
 
 #### 🌟 **Main Features**
 
-1. **Electronic Worksheets**: Intuitively view and rank sampling tasks along with related stats using features like "Sampling Zone", "Sampling Method", and more. Filter tasks based on these very features for a tailored experience.
+1. *Electronic Worksheets*: Intuitively view and rank sampling tasks along with related stats using features like "Sampling Zone", "Sampling Method", and more. Filter tasks based on these very features for a tailored experience.
 <table>
   <tr>
-    <td><img src="IMG/menu_display_1.PNG" alt="Snapshot of Electronic Worksheets" width="55%"/></td>
-    <td><img src="IMG/menu_display_2.PNG" alt="Filtering of Sampling Tasks" width="55%"/></td>
+    <td><img src="IMG/menu_display_1.PNG" alt="Snapshot of Electronic Worksheets" width="75%"/></td>
+    <td><img src="IMG/menu_display_2.PNG" alt="Filtering of Sampling Tasks" width="75%"/></td>
   </tr>
   <tr>
     <td align="center">Snapshot of Electronic Worksheets</td>
     <td align="center">Filtering of Sampling Tasks</td>
   </tr>
 </table>
-2. **Interactive Digital Maps and Scene Pictures**: Navigate sampling zones marked with specific sampling points. Highlight, search, zoom in, and zoom out! Also, get a peek into the media related to a sample point with just a click.
+
+2. *Interactive Digital Maps and Scene Pictures*: Navigate sampling zones marked with specific sampling points. Highlight, search, zoom in, and zoom out! Also, get a peek into the media related to a sample point with just a click.
 <table>
   <tr>
-    <td><img src="IMG/task_page_1.PNG" alt="Digital Maps and Sampling Points" width="100%"/></td>
-    <td><img src="IMG/task_page_2.PNG" alt="Zooming Feature" width="100%"/></td>
-    <td><img src="IMG/img_info_1.PNG" alt="Scene Images for Sampling Points" width="100%"/></td>
+    <td><img src="IMG/task_page_1.PNG" alt="Digital Maps and Sampling Points" width="120%"/></td>
+    <td><img src="IMG/task_page_2.PNG" alt="Zooming Feature" width="120%"/></td>
+    <td><img src="IMG/img_info_1.PNG" alt="Scene Images for Sampling Points" width="120%"/></td>
   </tr>
   <tr>
     <td align="center">Digital Maps and Sampling Points</td>
@@ -66,9 +67,10 @@ As technicians dive into the platform:
     <td align="center">Scene Images for Sampling Points</td>
   </tr>
 </table>
-3. **Sampling Task Check-ins & On-Site Feedback**: Give real-time feedback and check off tasks as they're completed. Log vital details, all of which seamlessly transfer to the connected Sharepoint List.
 
-4. **Real-time Progress Monitoring and Predictive Maintenance**: All up-to-the-minute details about sampling tasks are centralized. Plus, with Power BI's deep integration, expect advanced algorithms for predictive maintenance. It's a hub of information ready to support various modules in our digitalization transformation framework for water sampling activities!
+3. *Sampling Task Check-ins & On-Site Feedback*: Give real-time feedback and check off tasks as they're completed. Log vital details, all of which seamlessly transfer to the connected Sharepoint List.
+
+4. *Real-time Progress Monitoring and Predictive Maintenance*: All up-to-the-minute details about sampling tasks are centralized. Plus, with Power BI's deep integration, expect advanced algorithms for predictive maintenance. It's a hub of information ready to support various modules in our digitalization transformation framework for water sampling activities!
 
 ---
 
