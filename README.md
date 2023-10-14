@@ -21,9 +21,10 @@ Our solution? Develop a semantics-driven digitalization transformation framework
 ---
 
 #### 📈 **Overview**
+## Snapshot of the Welcome Message
 
+<img src="IMG/dsa_diagram_1.png" alt="Snapshot of the Welcome Message" width="30%"/>
 We've unified numerous water sampling processes into a single, slick, automated workflow. Imagine an ecosystem where software and platforms come together to offer web-based services for efficient water sampling. Want a bird's eye view? Feast your eyes on the below:
-<img src="IMG/dsa_diagram_1.png" alt="Snapshot of the Welcome Message" width="50%"/>
 <!---![Workflow overview of the digital sampling assistant](IMG/dsa_diagram_1.png)-->
 ---
 
@@ -44,8 +45,8 @@ As technicians dive into the platform:
 1. **Electronic Worksheets**: Intuitively view and rank sampling tasks along with related stats using features like "Sampling Zone", "Sampling Method", and more. Filter tasks based on these very features for a tailored experience.
 2. <table>
   <tr>
-    <td><img src="IMG/menu_display_1.PNG" alt="Snapshot of Electronic Worksheets" width="77%"/></td>
-    <td><img src="IMG/menu_display_2.PNG" alt="Filtering of Sampling Tasks" width="77%"/></td>
+    <td><img src="IMG/menu_display_1.PNG" alt="Snapshot of Electronic Worksheets" width="55%"/></td>
+    <td><img src="IMG/menu_display_2.PNG" alt="Filtering of Sampling Tasks" width="55%"/></td>
   </tr>
   <tr>
     <td align="center">Snapshot of Electronic Worksheets</td>
@@ -59,9 +60,9 @@ As technicians dive into the platform:
 2. **Interactive Digital Maps and Scene Pictures**: Navigate sampling zones marked with specific sampling points. Highlight, search, zoom in, and zoom out! Also, get a peek into the media related to a sample point with just a click.
 <table>
   <tr>
-    <td><img src="IMG/task_page_1.PNG" alt="Digital Maps and Sampling Points" width="80%"/></td>
-    <td><img src="IMG/task_page_2.PNG" alt="Zooming Feature" width="80%"/></td>
-    <td><img src="IMG/img_info_1.PNG" alt="Scene Images for Sampling Points" width="80%"/></td>
+    <td><img src="IMG/task_page_1.PNG" alt="Digital Maps and Sampling Points" width="100%"/></td>
+    <td><img src="IMG/task_page_2.PNG" alt="Zooming Feature" width="100%"/></td>
+    <td><img src="IMG/img_info_1.PNG" alt="Scene Images for Sampling Points" width="100%"/></td>
   </tr>
   <tr>
     <td align="center">Digital Maps and Sampling Points</td>
