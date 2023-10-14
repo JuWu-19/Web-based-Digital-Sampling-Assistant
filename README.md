@@ -81,8 +81,39 @@ As technicians dive into the platform:
 
 ---
 
-### 🎉 **Get Started**
+### 🎉 **Get Started** Setting Up the Digital Sampling Assistant
+To make the most of the Digital Sampling Assistant, you'll need to load the MSAPP file. Here's a step-by-step guide to help you through the process:
 
-Join us on this digital journey as we aim to simplify and elevate the water sampling process. Dive into the Digital Sampling Assistant, and witness how modern technology meets essential water sampling tasks!
+#### 1. Install the On-Premise Data Gateway
+
+Begin by installing the On-Premise Data Gateway. This is essential for the smooth operation of our system. You can download it directly from the Microsoft official website using the following link:
+
+[On-Premise Data Gateway Installation](https://learn.microsoft.com/en-us/data-integration/gateway/service-gateway-install)
+
+#### 2. Register Your Enterprise Domain Account
+
+Once the gateway is installed, proceed to register using your personal enterprise domain account. This ensures the integrity and security of your connection.
+
+#### 3. Set Up MS Power Automate Connector with SQL Database
+
+Now, it's time to integrate with the SQL database, GLIMS:
+
+- Create a new MS Power Automate connector.
+- Use the On-Premise Data Gateway that you've just registered.
+- Authenticate using the provided SQL account (details given below).
+
+#### 4. Modify the MS Power Automate Flow
+
+The final step is to adjust the MS Power Automate flow:
+
+- Edit the flow to retrieve data from GLIMS. You'll want to change the source connector to the one you've just set up.
+  
+However, it's crucial to note that the pre-existing MS Power Automate flow for data retrieval may already be bound to a domain account. If that account gets deactivated, the associated flow might become ineffective. In such cases, you'll need to create a new MS Power Automate flow from scratch. This process can be a tad intricate, so ensure you're familiar with the tool.
+
+---
+
+**Note:** Ensure you have the necessary SQL account details at hand before beginning the setup.
+
+---
 
 **Happy Sampling! 💧**
