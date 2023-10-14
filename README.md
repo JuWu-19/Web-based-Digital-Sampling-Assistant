@@ -44,8 +44,8 @@ As technicians dive into the platform:
 1. **Electronic Worksheets**: Intuitively view and rank sampling tasks along with related stats using features like "Sampling Zone", "Sampling Method", and more. Filter tasks based on these very features for a tailored experience.
 2. <table>
   <tr>
-    <td><img src="IMG/menu_display_1.PNG" alt="Snapshot of Electronic Worksheets" width="50%"/></td>
-    <td><img src="IMG/menu_display_2.PNG" alt="Filtering of Sampling Tasks" width="50%"/></td>
+    <td><img src="IMG/menu_display_1.PNG" alt="Snapshot of Electronic Worksheets" width="80%"/></td>
+    <td><img src="IMG/menu_display_2.PNG" alt="Filtering of Sampling Tasks" width="80%"/></td>
   </tr>
   <tr>
     <td align="center">Snapshot of Electronic Worksheets</td>
@@ -59,9 +59,9 @@ As technicians dive into the platform:
 2. **Interactive Digital Maps and Scene Pictures**: Navigate sampling zones marked with specific sampling points. Highlight, search, zoom in, and zoom out! Also, get a peek into the media related to a sample point with just a click.
 <table>
   <tr>
-    <td><img src="IMG/task_page_1.PNG" alt="Digital Maps and Sampling Points" width="33%"/></td>
-    <td><img src="IMG/task_page_2.PNG" alt="Zooming Feature" width="33%"/></td>
-    <td><img src="IMG/img_info_1.PNG" alt="Scene Images for Sampling Points" width="33%"/></td>
+    <td><img src="IMG/task_page_1.PNG" alt="Digital Maps and Sampling Points" width="66%"/></td>
+    <td><img src="IMG/task_page_2.PNG" alt="Zooming Feature" width="66%"/></td>
+    <td><img src="IMG/img_info_1.PNG" alt="Scene Images for Sampling Points" width="66%"/></td>
   </tr>
   <tr>
     <td align="center">Digital Maps and Sampling Points</td>
