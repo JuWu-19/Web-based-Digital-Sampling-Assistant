@@ -43,17 +43,17 @@ As technicians dive into the platform:
 
 1. **Electronic Worksheets**: Intuitively view and rank sampling tasks along with related stats using features like "Sampling Zone", "Sampling Method", and more. Filter tasks based on these very features for a tailored experience.
 
-   ![Snapshot of Electronic Worksheets](IMG/menu_display_1.png)
+   ![Snapshot of Electronic Worksheets](IMG/menu_display_1.PNG)
 
-   ![Filtering of Sampling Tasks](IMG/menu_display_2.png)
+   ![Filtering of Sampling Tasks](IMG/menu_display_2.PNG)
 
 2. **Interactive Digital Maps and Scene Pictures**: Navigate sampling zones marked with specific sampling points. Highlight, search, zoom in, and zoom out! Also, get a peek into the media related to a sample point with just a click.
 
-   ![Digital Maps and Sampling Points](task_page_1.png)
+   ![Digital Maps and Sampling Points](task_page_1.PNG)
 
-   ![Zooming Feature](task_page_2.png)
+   ![Zooming Feature](task_page_2.PNG)
 
-   ![Scene Images for Sampling Points](img_info_1.png)
+   ![Scene Images for Sampling Points](img_info_1.PNG)
 
 3. **Sampling Task Check-ins & On-Site Feedback**: Give real-time feedback and check off tasks as they're completed. Log vital details, all of which seamlessly transfer to the connected Sharepoint List.
 
